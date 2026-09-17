@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm **Pankaj** — a self-taught developer from Rajasthan, India who builds **production-ready software products, AI automation systems, and algorithmic trading bots**.
+I'm **themusafir** — a full-stack AI engineer and software architect from Rajasthan, India who builds **production-ready software products, AI automation systems, and algorithmic trading bots**.
 
 I don't just write code. I ship products that **generate revenue**, automate entire business workflows, and solve real-world problems for clients worldwide.
 
@@ -175,7 +175,7 @@ I work with **startups, agencies, and solo founders** globally. Here's what I de
 #### Ready to build something that makes money?
 
 [![Hire on Telegram](https://img.shields.io/badge/💬_Hire_Me_on_Telegram-@the__musafir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)
-[![Email Me](https://img.shields.io/badge/📧_Send_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pixelssudio@gmail.com)
+[![Email Me](https://img.shields.io/badge/📧_Send_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
 
 </div>
 

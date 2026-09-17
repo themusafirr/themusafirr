@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=the.musafir&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Building%20products%20that%20earn%20while%20you%20sleep&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1e3a8a&height=220&section=header&text=the.musafir&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Micro-SaaS%20%E2%80%A2%20Algo%20Systems&descSize=17&descAlignY=56&descColor=93c5fd&animation=fadeIn" width="100%" />
 
-### Full-Stack AI Engineer • Micro-SaaS Builder • Algo Trading Systems
+[![Telegram](https://img.shields.io/badge/Telegram-@the__musafir-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)
+[![Instagram](https://img.shields.io/badge/Instagram-@the.musafirrr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the.musafirrr__)
+[![Hire Me](https://img.shields.io/badge/Status-Available_for_Hire-00c853?style=for-the-badge)](https://t.me/the_musafir)
+[![Email](https://img.shields.io/badge/Email-musafir.developer-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@the__musafir-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/the_musafir)
-[![Instagram](https://img.shields.io/badge/Instagram-@the.musafirrr__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/the.musafirrr__)
-[![Available](https://img.shields.io/badge/Status-Available%20for%20Hire-2ea44f?style=flat-square)](#-hire-me)
+<br/>
+
+```text
+⚡ "I don't just write code — I build autonomous products that generate revenue."
+```
 
 </div>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
-I'm **themusafir** — a full-stack AI engineer and software architect from Rajasthan, India who builds **production-ready software products, AI automation systems, and algorithmic trading bots**.
-
-I don't just write code. I ship products that **generate revenue**, automate entire business workflows, and solve real-world problems for clients worldwide.
-
-```
-🔧 I build it.   🚀 I ship it.   💰 You profit from it.
-```
+- 🚀 **Full-Stack AI Engineer & SaaS Builder** specializing in building end-to-end commercial web apps, AI automation engines, and algorithmic trading systems.
+- 💡 Built and shipped multi-role marketplace portals, social media video production pipelines, and automated B2B sales machinery.
+- 📍 Based in **Rajasthan, India** • Available for freelance projects, contract roles, and technical collaborations worldwide.
 
 ---
 
@@ -28,168 +29,122 @@ I don't just write code. I ship products that **generate revenue**, automate ent
 
 <div align="center">
 
-| | Technologies |
-|:---:|:---|
-| **Frontend** | `Next.js 14` `React 18` `TypeScript` `Tailwind CSS` `Capacitor` |
-| **Backend** | `Python` `Flask` `Node.js` `Firebase` `SQLite` `Nginx` |
-| **AI / LLMs** | `Google Gemini` `Groq` `OpenAI` `LangChain` `Edge-TTS` |
-| **Automation** | `n8n` `MoviePy` `FFmpeg` `Selenium` `BeautifulSoup` |
-| **Trading** | `MQL5` `MQL4` `MetaTrader 5 API` `Pine Script` |
-| **DevOps** | `Linux VPS` `Docker` `GitHub Actions` `Cloudflare` `Vercel` |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,fastapi,flask,nodejs,firebase,postgres,sqlite,docker,linux,tailwind,git,github,vscode" />
+</a>
+
+<br/><br/>
+
+| Domain | Core Stack |
+|:---|:---|
+| **Frontend & Mobile** | Next.js 14, React 18, TypeScript, Tailwind CSS, Capacitor (PWA & Android) |
+| **Backend & APIs** | Python, Flask, FastAPI, Node.js, Express, Firebase Firestore |
+| **AI & Automation** | Google Gemini API, Groq LLMs, LangChain, Edge-TTS, MoviePy, FFmpeg, n8n |
+| **Quantitative Finance** | MQL5, MQL4, MetaTrader 5 API, Algorithmic Scalping Bots |
+| **Infrastructure** | Linux Ubuntu VPS, Docker, Nginx Reverse Proxy, Cloudflare, GitHub Actions |
 
 </div>
 
 ---
 
-### 🏆 Featured Projects
+### 🚀 Featured Commercial Projects
 
-> Click any project below to explore the full source code, documentation, and setup guide.
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏙️ [Hyperlocal Community Portal](https://github.com/pixelssudio/hyperlocal-community-portal)
-
-**Turnkey city marketplace & on-demand services platform**
-
-`Next.js 14` `React` `TypeScript` `Tailwind CSS` `Firebase` `Capacitor`
-
-- Multi-role portal — Client, Driver, Admin
-- 1-Click Google Auth with mobile verification
-- WhatsApp ordering & Razorpay payments
-- PWA + Native Android APK packaging
-- Real-time admin control dashboard
-
-**💰 Client Value: $1,000 – $2,500**
-
-</td>
-<td width="50%">
-
-#### 🎬 [AI Video Production Studio](https://github.com/pixelssudio/youtube-shorts-ai-studio)
-
-**Autonomous YouTube Shorts & Instagram Reels engine**
-
-`Python` `Gemini AI` `MoviePy` `FFmpeg` `Edge-TTS` `n8n`
-
-- AI scriptwriting via Gemini 2.5 Flash
-- Neural voiceover synthesis (Hindi/English)
-- Dynamic 3-tier video compositing
-- Smart audio ducking & subtitle overlay
-- Automated Instagram/YouTube publishing
-
-**💰 Client Value: $500 – $2,000**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### ⚡ [TagStorm Hashtag SaaS](https://github.com/pixelssudio/tagstorm-hashtag-saas)
-
-**Ready-to-deploy Micro-SaaS with built-in sales funnel**
-
-`Python` `Flask` `SQLite` `HTML5/CSS3` `Nginx` `Systemd`
-
-- 10+ niche categories with reach scoring
-- Built-in analytics dashboard
-- Pre-built sales landing page (`sales.html`)
-- 1-click VPS deployment script
-- API-first architecture
-
-**💰 Client Value: $300 – $1,000**
-
-</td>
-<td width="50%">
-
-#### 📈 [AntiLatency Sniper EA](https://github.com/pixelssudio/antilatency-sniper-ea)
-
-**Institutional algo trading for MetaTrader 4 & 5**
-
-`MQL5` `MQL4` `Python` `MetaTrader 5 API`
-
-- 5-factor confluence: RSI, Bollinger, MACD, EMA, Volume
-- Dynamic sniper lot multiplier system
-- Trailing stop with capital protection
-- Supports Crypto, Forex, Gold
-- Python autonomous MT5 controller
-
-**💰 Client Value: $500 – $3,000**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🤖 [Telegram AI Concierge](https://github.com/pixelssudio/telegram-ai-concierge)
-
-**Autonomous AI assistant & morning briefing bot**
-
-`Python` `Telegram Bot API` `Groq LLMs` `Scheduler`
-
-- Ultra-fast Groq/LLaMA inference
-- Automated daily morning briefings
-- Role-based whitelist authorization
-- Broadcast campaign playbooks
-- Dual-engine: LLM + zero-dependency fallback
-
-**💰 Client Value: $200 – $800**
-
-</td>
-<td width="50%">
-
-#### 🎯 [LeadSentinel Automation](https://github.com/pixelssudio/lead-sentinel-automation)
-
-**B2B lead scraper & cold email outreach engine**
-
-`Python` `BeautifulSoup` `Requests` `SMTP` `SQLite`
-
-- Multi-city scraper across 18+ Indian cities
-- Category-specific email copy templates
-- Anti-spam rate limiting & cooldowns
-- Real-time freelance job radar
-- CSV export with status tracking
-
-**💰 Client Value: $300 – $1,200**
-
-</td>
-</tr>
-</table>
+#### 🏙️ [Hyperlocal Community & Marketplace Platform](https://github.com/pixelssudio/hyperlocal-community-portal)
+> **Turnkey on-demand services marketplace, multi-role directory, and community portal.**
+- **Stack:** `Next.js 14` `React` `TypeScript` `Tailwind CSS` `Firebase` `Capacitor PWA`
+- Multi-role access: Customer, Delivery Driver, and Super-Admin Dashboard
+- 1-Click Google Auth with mobile OTP verification
+- Instant WhatsApp checkout & Razorpay payment gateway integration
+- Native Android APK & Web PWA packaging
+- 💰 *Client Value: $1,000 – $2,500*
 
 ---
 
-### 💼 Hire Me
+#### ⚡ [TagStorm: AI Hashtag Generator & Micro-SaaS](https://github.com/pixelssudio/tagstorm-hashtag-saas)
+> **Production-grade Micro-SaaS web app with live analytics and built-in sales landing page.**
+- **Stack:** `Python` `Flask` `SQLite` `Tailwind/CSS3` `Nginx` `Systemd`
+- **[🌐 Live Demo Website](https://pixelssudio.github.io/tagstorm-hashtag-saas/)** — Try it live right now!
+- Multi-niche hashtag discovery engine (10+ categories) with competition difficulty scoring
+- Live query analytics counter and pre-built high-converting `sales.html` funnel
+- Production-ready Nginx reverse proxy and Systemd automated daemon service
+- 💰 *Client Value: $300 – $1,000*
 
-I work with **startups, agencies, and solo founders** globally. Here's what I deliver:
+---
 
-| Service | What You Get | Starting At |
+#### 🎬 [Autonomous YouTube Shorts & Reels AI Studio](https://github.com/pixelssudio/youtube-shorts-ai-studio)
+> **Zero-touch AI content creation engine that turns raw text prompts into viral vertical videos.**
+- **Stack:** `Python` `Gemini 2.5 Flash` `MoviePy` `Edge-TTS` `FFmpeg` `n8n`
+- AI scriptwriting with automated viral hook generation
+- Multi-speaker neural voice synthesis in Hindi & English
+- Dynamic 3-tier visual compositing, auto-ducked background music, and synced animated subtitles
+- End-to-end webhook integration for scheduled YouTube Shorts & Instagram Reels publishing
+- 💰 *Client Value: $500 – $2,000*
+
+---
+
+#### 📈 [AntiLatency Sniper EA — Algorithmic Trading Bot](https://github.com/pixelssudio/antilatency-sniper-ea)
+> **Institutional-grade high-frequency scalping system for MetaTrader 4 and MetaTrader 5.**
+- **Stack:** `MQL5` `MQL4` `Python` `MetaTrader 5 API` `Quant Analysis`
+- 5-factor quantitative confluence filter: RSI, Bollinger Bands, MACD, EMA Trend, and Volume
+- Dynamic sniper lot multiplier engine with automated volatility-based trailing stop
+- Autonomous Python MT5 bridge for algorithmic trade execution
+- Multi-asset support: Forex majors, Gold (XAUUSD), and Crypto
+- 💰 *Client Value: $500 – $3,000*
+
+---
+
+#### 🤖 [Telegram AI Concierge & Automated Morning Briefing](https://github.com/pixelssudio/telegram-ai-concierge)
+> **Intelligent private AI assistant powered by Groq LLMs with dual-engine zero-dependency fallback.**
+- **Stack:** `Python` `Telegram Bot API` `Groq (LLaMA-3)` `Asyncio` `Cron Scheduler`
+- Ultra-low latency responses using Groq LPUs
+- Automated daily morning briefing system: schedule, tasks, weather, and business news
+- Role-based whitelist access control with broadcast campaign playbooks
+- 💰 *Client Value: $200 – $800*
+
+---
+
+#### 🎯 [LeadSentinel: B2B Lead Generator & Outreach Engine](https://github.com/pixelssudio/lead-sentinel-automation)
+> **Automated business lead scraper and high-deliverability cold email outreach suite.**
+- **Stack:** `Python` `BeautifulSoup` `Requests` `SMTP` `SQLite`
+- Multi-city targeted lead scraper across 18+ major commercial hubs
+- Automated personalized cold email outreach with dynamic category pitch templates
+- Built-in anti-spam cooldown algorithms and real-time freelance job board monitor
+- 💰 *Client Value: $300 – $1,200*
+
+---
+
+### 💼 Freelance Services & Capabilities
+
+| Service | Deliverables | Starting Rate |
 |:---|:---|:---:|
-| **🚀 MVP & SaaS Development** | Full-stack web/mobile app from idea to deployment | $500 |
-| **🤖 AI Automation Pipelines** | Content bots, video generators, LLM workflows | $300 |
-| **📈 Trading Bots & EAs** | Custom MQL5/MQL4 Expert Advisors, Pine Script conversion | $400 |
-| **🕷️ Web Scraping & Lead Gen** | Data extraction, outreach funnels, job monitors | $200 |
-| **🔧 Custom Telegram/Discord Bots** | Payment bots, community managers, alert systems | $150 |
+| **🚀 Turnkey SaaS / Web MVP** | Full-stack application from wireframe to production deployment | $500 |
+| **🤖 AI Automation & LLM Pipelines** | Custom AI workflows, video generators, Telegram/WhatsApp bots | $300 |
+| **📈 Algorithmic Trading Bots** | Custom MQL5/MQL4 Expert Advisors, Python MT5 bots | $400 |
+| **🕷️ B2B Scrapers & Data Engines** | Targeted scrapers, lead enrichment, automated email engines | $200 |
+| **📱 Mobile PWA & App Packaging** | Capacitor/React Native setup, app optimization | $250 |
 
 <div align="center">
 
-#### Ready to build something that makes money?
+### 🤝 Let's Build Something Impactful
 
-[![Hire on Telegram](https://img.shields.io/badge/💬_Hire_Me_on_Telegram-@the__musafir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)
-[![Email Me](https://img.shields.io/badge/📧_Send_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
+[![Hire on Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-@the__musafir-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)
+[![Send Email](https://img.shields.io/badge/📧_Email_Me-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
 
 </div>
 
 ---
 
+### 📊 GitHub Activity & Statistics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pixelssudio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelssudio&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=pixelssudio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelssudio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="165" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pixelssudio&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=ff6723&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pixelssudio&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=7982a9" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1e3a8a&height=100&section=footer" width="100%" />

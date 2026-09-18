@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero_banner.jpg" width="100%" alt="Pankaj Kalosiya - Full-Stack AI Engineer & SaaS Developer Banner" style="border-radius: 10px;" />
+<img src="./assets/hero_banner.jpg" width="100%" alt="The Musafir - Full-Stack AI Engineer & SaaS Developer Banner" style="border-radius: 10px;" />
 
 <br/><br/>
 
-<img src="./assets/the_musafir_avatar.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 25px rgba(56, 189, 248, 0.5);" alt="Pankaj Kalosiya Avatar" />
+<img src="./assets/the_musafir_avatar.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 25px rgba(56, 189, 248, 0.5);" alt="The Musafir Avatar" />
 
-# ⚡ Pankaj Kalosiya (`the.musafir`)
+# ⚡ The Musafir (`the.musafir`)
 ### 🚀 Full-Stack AI Engineer • Autonomous Systems • SaaS & Algo Trader
 
 [![Telegram](https://img.shields.io/badge/Telegram-@the__musafir-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)

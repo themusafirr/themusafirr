@@ -1,16 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1e3a8a&height=220&section=header&text=the.musafir&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Micro-SaaS%20%E2%80%A2%20Algo%20Systems&descSize=17&descAlignY=56&descColor=93c5fd&animation=fadeIn" width="100%" />
+<img src="./assets/hero_banner.jpg" width="100%" alt="Pankaj Kalosiya - Full-Stack AI Engineer & SaaS Developer Banner" style="border-radius: 10px;" />
+
+<br/><br/>
+
+<img src="./assets/the_musafir_avatar.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 25px rgba(56, 189, 248, 0.5);" alt="Pankaj Kalosiya Avatar" />
+
+# ⚡ Pankaj Kalosiya (`the.musafir`)
+### 🚀 Full-Stack AI Engineer • Autonomous Systems • SaaS & Algo Trader
 
 [![Telegram](https://img.shields.io/badge/Telegram-@the__musafir-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)
 [![Instagram](https://img.shields.io/badge/Instagram-@the.musafirrr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the.musafirrr__)
-[![Hire Me](https://img.shields.io/badge/Status-Available_for_Hire-00c853?style=for-the-badge)](https://t.me/the_musafir)
-[![Email](https://img.shields.io/badge/Email-musafir.developer-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Available_for_Projects-00c853?style=for-the-badge)](https://t.me/the_musafir)
 
 <br/>
 
 ```text
-⚡ "I don't just write code — I build autonomous products that generate revenue."
+⚡ "I don't just write code — I build autonomous software products that generate real revenue."
 ```
 
 </div>
@@ -19,9 +26,9 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Full-Stack AI Engineer & SaaS Builder** specializing in building end-to-end commercial web apps, AI automation engines, and algorithmic trading systems.
-- 💡 Built and shipped multi-role marketplace portals, social media video production pipelines, and automated B2B sales machinery.
-- 📍 Based in **Rajasthan, India** • Available for freelance projects, contract roles, and technical collaborations worldwide.
+- 🚀 **Full-Stack AI & Automation Engineer** building commercial-grade SaaS products, autonomous multi-agent pipelines, and algorithmic trading systems.
+- 🛠️ Shipped turnkey marketplace platforms, AI video generation engines, scraping infrastructure, and financial quantitative bots.
+- 📍 Located in **Rajasthan, India** • Open for freelance collaborations, technical consulting, and high-impact software development worldwide.
 
 ---
 
@@ -35,106 +42,36 @@
 
 <br/><br/>
 
-| Domain | Core Stack |
+| Domain | Core Technologies |
 |:---|:---|
-| **Frontend & Mobile** | Next.js 14, React 18, TypeScript, Tailwind CSS, Capacitor (PWA & Android) |
-| **Backend & APIs** | Python, Flask, FastAPI, Node.js, Express, Firebase Firestore |
-| **AI & Automation** | Google Gemini API, Groq LLMs, LangChain, Edge-TTS, MoviePy, FFmpeg, n8n |
-| **Quantitative Finance** | MQL5, MQL4, MetaTrader 5 API, Algorithmic Scalping Bots |
-| **Infrastructure** | Linux Ubuntu VPS, Docker, Nginx Reverse Proxy, Cloudflare, GitHub Actions |
+| **Frontend & Mobile Apps** | Next.js 14, React 18, TypeScript, Tailwind CSS, Capacitor (PWA & Android) |
+| **Backend & Microservices** | Python, Flask, FastAPI, Node.js, Express, Firebase Firestore, SQLite |
+| **Generative AI & Media Automation** | Google Gemini API, Groq LPU, Edge-TTS, MoviePy, FFmpeg, yt-dlp, n8n |
+| **Algorithmic Trading & Quant** | MQL5, MQL4, MetaTrader 5 API, Latency Arbitrage, Freqtrade |
+| **DevOps & Infrastructure** | Linux Ubuntu VPS, Docker Compose, Nginx Reverse Proxy, Cloudflare |
 
 </div>
 
 ---
 
-### 🚀 Featured Commercial Projects
+### 🌟 Featured Commercial & Open-Source Projects
 
-#### 🏙️ [Hyperlocal Community & Marketplace Platform](https://github.com/pixelssudio/hyperlocal-community-portal)
-> **Turnkey on-demand services marketplace, multi-role directory, and community portal.**
-- **Stack:** `Next.js 14` `React` `TypeScript` `Tailwind CSS` `Firebase` `Capacitor PWA`
-- Multi-role access: Customer, Delivery Driver, and Super-Admin Dashboard
-- 1-Click Google Auth with mobile OTP verification
-- Instant WhatsApp checkout & Razorpay payment gateway integration
-- Native Android APK & Web PWA packaging
-- 💰 *Client Value: $1,000 – $2,500*
-
----
-
-#### ⚡ [TagStorm: AI Hashtag Generator & Micro-SaaS](https://github.com/pixelssudio/tagstorm-hashtag-saas)
-> **Production-grade Micro-SaaS web app with live analytics and built-in sales landing page.**
-- **Stack:** `Python` `Flask` `SQLite` `Tailwind/CSS3` `Nginx` `Systemd`
-- **[🌐 Live Demo Website](https://pixelssudio.github.io/tagstorm-hashtag-saas/)** — Try it live right now!
-- Multi-niche hashtag discovery engine (10+ categories) with competition difficulty scoring
-- Live query analytics counter and pre-built high-converting `sales.html` funnel
-- Production-ready Nginx reverse proxy and Systemd automated daemon service
-- 💰 *Client Value: $300 – $1,000*
+| Project | Description | Stack | Link |
+|:---|:---|:---|:---:|
+| 🏋️ **FitTrack Gym PWA** | Offline-First Gym & Fitness Management PWA with BMI tracking & membership engine | `Python` `Flask` `SQLite` `PWA` | [**View Repo**](https://github.com/pixelssudio/fittrack-fitness-pwa) |
+| 🎬 **AI Video Studio** | Autonomous YouTube Shorts & Reels creator with Gemini AI & automated voiceovers | `Python` `Gemini` `MoviePy` `TTS` | [**View Repo**](https://github.com/pixelssudio/youtube-shorts-ai-studio) |
+| 🏙️ **Hyperlocal Portal** | Production-ready services marketplace, WhatsApp orders & Razorpay payments | `Next.js 14` `Firebase` `Capacitor` | [**View Repo**](https://github.com/pixelssudio/hyperlocal-community-portal) |
+| 📈 **AntiLatency Sniper EA** | Institutional high-frequency latency arbitrage scalping bot for MT4 & MT5 | `MQL5` `MQL4` `Python` `MT5` | [**View Repo**](https://github.com/pixelssudio/antilatency-sniper-ea) |
+| 💬 **Gemini WA Automation** | Smart WhatsApp bot powered by Google Gemini AI & Baileys multi-device socket | `Node.js` `Gemini AI` `Docker` | [**View Repo**](https://github.com/pixelssudio/gemini-whatsapp-automation) |
+| 🛍️ **Loot & Deals Bot** | 24/7 autonomous deal scraper (Amazon, Ajio, Flipkart) with deduplication | `Python` `Telegram API` `SQLite` | [**View Repo**](https://github.com/pixelssudio/telegram-loot-deals-bot) |
+| 📥 **Universal Downloader** | Multi-platform video and audio extractor with rotating proxy pool | `Python` `Flask` `yt-dlp` `Proxies` | [**View Repo**](https://github.com/pixelssudio/universal-media-downloader) |
+| ⚡ **TagStorm SaaS** | AI Hashtag discovery Micro-SaaS with competition difficulty scoring | `Python` `Flask` `SQLite` `Tailwind` | [**View Repo**](https://github.com/pixelssudio/tagstorm-hashtag-saas) |
+| 🤖 **Telegram Concierge** | Private AI assistant powered by Groq LPUs with zero-dependency fallback | `Python` `Groq LLaMA-3` `Asyncio` | [**View Repo**](https://github.com/pixelssudio/telegram-ai-concierge) |
+| 🎯 **LeadSentinel** | Automated B2B business lead scraper & personalized cold email sequence suite | `Python` `BeautifulSoup` `SMTP` | [**View Repo**](https://github.com/pixelssudio/lead-sentinel-automation) |
 
 ---
 
-#### 🎬 [Autonomous YouTube Shorts & Reels AI Studio](https://github.com/pixelssudio/youtube-shorts-ai-studio)
-> **Zero-touch AI content creation engine that turns raw text prompts into viral vertical videos.**
-- **Stack:** `Python` `Gemini 2.5 Flash` `MoviePy` `Edge-TTS` `FFmpeg` `n8n`
-- AI scriptwriting with automated viral hook generation
-- Multi-speaker neural voice synthesis in Hindi & English
-- Dynamic 3-tier visual compositing, auto-ducked background music, and synced animated subtitles
-- End-to-end webhook integration for scheduled YouTube Shorts & Instagram Reels publishing
-- 💰 *Client Value: $500 – $2,000*
-
----
-
-#### 📈 [AntiLatency Sniper EA — Algorithmic Trading Bot](https://github.com/pixelssudio/antilatency-sniper-ea)
-> **Institutional-grade high-frequency scalping system for MetaTrader 4 and MetaTrader 5.**
-- **Stack:** `MQL5` `MQL4` `Python` `MetaTrader 5 API` `Quant Analysis`
-- 5-factor quantitative confluence filter: RSI, Bollinger Bands, MACD, EMA Trend, and Volume
-- Dynamic sniper lot multiplier engine with automated volatility-based trailing stop
-- Autonomous Python MT5 bridge for algorithmic trade execution
-- Multi-asset support: Forex majors, Gold (XAUUSD), and Crypto
-- 💰 *Client Value: $500 – $3,000*
-
----
-
-#### 🤖 [Telegram AI Concierge & Automated Morning Briefing](https://github.com/pixelssudio/telegram-ai-concierge)
-> **Intelligent private AI assistant powered by Groq LLMs with dual-engine zero-dependency fallback.**
-- **Stack:** `Python` `Telegram Bot API` `Groq (LLaMA-3)` `Asyncio` `Cron Scheduler`
-- Ultra-low latency responses using Groq LPUs
-- Automated daily morning briefing system: schedule, tasks, weather, and business news
-- Role-based whitelist access control with broadcast campaign playbooks
-- 💰 *Client Value: $200 – $800*
-
----
-
-#### 🎯 [LeadSentinel: B2B Lead Generator & Outreach Engine](https://github.com/pixelssudio/lead-sentinel-automation)
-> **Automated business lead scraper and high-deliverability cold email outreach suite.**
-- **Stack:** `Python` `BeautifulSoup` `Requests` `SMTP` `SQLite`
-- Multi-city targeted lead scraper across 18+ major commercial hubs
-- Automated personalized cold email outreach with dynamic category pitch templates
-- Built-in anti-spam cooldown algorithms and real-time freelance job board monitor
-- 💰 *Client Value: $300 – $1,200*
-
----
-
-### 💼 Freelance Services & Capabilities
-
-| Service | Deliverables | Starting Rate |
-|:---|:---|:---:|
-| **🚀 Turnkey SaaS / Web MVP** | Full-stack application from wireframe to production deployment | $500 |
-| **🤖 AI Automation & LLM Pipelines** | Custom AI workflows, video generators, Telegram/WhatsApp bots | $300 |
-| **📈 Algorithmic Trading Bots** | Custom MQL5/MQL4 Expert Advisors, Python MT5 bots | $400 |
-| **🕷️ B2B Scrapers & Data Engines** | Targeted scrapers, lead enrichment, automated email engines | $200 |
-| **📱 Mobile PWA & App Packaging** | Capacitor/React Native setup, app optimization | $250 |
-
-<div align="center">
-
-### 🤝 Let's Build Something Impactful
-
-[![Hire on Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-@the__musafir-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)
-[![Send Email](https://img.shields.io/badge/📧_Email_Me-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
-
-</div>
-
----
-
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
 
@@ -147,4 +84,12 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1e3a8a&height=100&section=footer" width="100%" />
+---
+
+### 🤝 Let's Connect & Collaborate
+
+Have a project idea, MVP requirement, or custom AI automation need?
+
+[![Chat on Telegram](https://img.shields.io/badge/💬_Telegram-@the__musafir-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_musafir)
+[![Send Email](https://img.shields.io/badge/📧_Email_Me-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musafir.developer@gmail.com)
+

@@ -41,6 +41,32 @@
 
 ---
 
+### 💎 Featured Flagship Repositories (Top Showcase)
+
+<div align="center">
+
+| 👟 **Rabbit Shoes Storefront & Retail ERP** | 🏋️ **FitTrack Gym Platform PWA** |
+|:---:|:---:|
+| [![Rabbit Shoes](https://img.shields.io/badge/Production-E--Commerce_Suite-00C853?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/themusafirr/rabbit-shoes-ecommerce-suite) | [![FitTrack](https://img.shields.io/badge/Fitness_SaaS-Progressive_Web_App-ef4444?style=for-the-badge&logo=pwa&logoColor=white)](https://github.com/themusafirr/fittrack-fitness-pwa) |
+| Multi-variant footwear store with 1-tap WhatsApp checkout, inventory ERP & GST invoices. | Offline-first gym tracker with automated BMI metrics, workout logs & membership billing. |
+| [🌐 **Live VPS Store**](https://shoes.137.23.47.199.sslip.io) • [📱 **Demo**](https://themusafirr.github.io/rabbit-shoes-ecommerce-suite/) • [💻 **Repo**](https://github.com/themusafirr/rabbit-shoes-ecommerce-suite) | [🌐 **Live VPS App**](https://gym.137.23.47.199.sslip.io) • [📱 **Demo**](https://themusafirr.github.io/fittrack-fitness-pwa/) • [💻 **Repo**](https://github.com/themusafirr/fittrack-fitness-pwa) |
+
+| 📈 **Freqtrade Algorithmic Crypto Guardian** | 🐳 **Docker MetaTrader 5 Cloud Server** |
+|:---:|:---:|
+| [![Crypto Guardian](https://img.shields.io/badge/Algorithmic_Trading-Binance_Bot-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://github.com/themusafirr/freqtrade-crypto-guardian) | [![Docker MT5](https://img.shields.io/badge/Docker-Headless_MT5_Server-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/themusafirr/docker-metatrader5-server) |
+| 24/7 autonomous cryptocurrency quantitative daemon with Telegram trade dispatch. | Production Wine-emulated headless MT5 trading engine with 24/7 self-healing watchdog. |
+| [💻 **Explore Source Code**](https://github.com/themusafirr/freqtrade-crypto-guardian) | [💻 **Explore Source Code**](https://github.com/themusafirr/docker-metatrader5-server) |
+
+| 🏛️ **eMitra Citizen Kiosk ERP Portal** | ⚡ **TagStorm AI Social Growth SaaS** |
+|:---:|:---:|
+| [![eMitra Kiosk](https://img.shields.io/badge/GovTech-Citizen_Services_Portal-7C3AED?style=for-the-badge)](https://github.com/themusafirr/emitra-kiosk-portal) | [![TagStorm](https://img.shields.io/badge/AI_Growth-Hashtag_Intelligence-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/themusafirr/tagstorm-hashtag-saas) |
+| Multi-tenant public utility portal with digital receipts, wallet balance & billing. | AI-powered virality & tag recommendation engine for social media growth creators. |
+| [🌐 **Live VPS Kiosk**](http://kiosk.137.23.47.199.sslip.io) • [📱 **Demo**](https://themusafirr.github.io/emitra-kiosk-portal/) • [💻 **Repo**](https://github.com/themusafirr/emitra-kiosk-portal) | [📱 **Interactive Demo**](https://themusafirr.github.io/tagstorm-hashtag-saas/) • [💻 **Repo**](https://github.com/themusafirr/tagstorm-hashtag-saas) |
+
+</div>
+
+---
+
 ### 👨‍💻 Executive Summary
 
 - 🚀 **Full-Stack AI & Automation Architect** specializing in production-ready SaaS platforms, autonomous agent ecosystems, and high-frequency algorithmic trading systems.

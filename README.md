@@ -124,7 +124,7 @@
 | 🎮 **Gaming Shorts Studio** | Autonomous Video Engine | `Gemini AI` `MoviePy` `TTS` | [**GitHub Repo**](https://github.com/themusafirr/gaming-shorts-ai-engine) |
 | 🎬 **Travel Reel AI Studio** | Short-Form Content Producer | `Python` `MoviePy` `Edge-TTS` | [**GitHub Repo**](https://github.com/themusafirr/youtube-shorts-ai-studio) |
 | 📸 **Instagram Carousel Engine**| Growth & Carousel Pipeline | `Python` `Telegram` `HTML5` | [**GitHub Repo**](https://github.com/themusafirr/instagram-automation-content-engine) |
-| 🏙️ **Hyperlocal Portal** | On-Demand Services Directory | `Next.js 14` `Firebase` `PWA` | [**GitHub Repo**](https://github.com/themusafirr/hyperlocal-community-portal) |
+| 🏙️ **Hyperlocal Portal** | On-Demand Services Directory | `Next.js 14` `Firebase` `PWA` | [🌐 **Live App**](https://rawatbhata-hyperlocal.vercel.app) • [**GitHub Repo**](https://github.com/themusafirr/hyperlocal-community-portal) |
 | 🛍️ **Loot & Deals Bot** | 24/7 Retail Arbitrage Scraper | `Python` `Telegram` `SQLite` | [**GitHub Repo**](https://github.com/themusafirr/telegram-loot-deals-bot) |
 | 🤖 **Telegram Concierge** | Private AI Briefing Assistant | `Python` `Groq LLaMA-3` `Bot` | [**GitHub Repo**](https://github.com/themusafirr/telegram-ai-concierge) |
 | 🎯 **LeadSentinel** | B2B Prospecting & Cold Email | `Python` `BeautifulSoup` `SMTP` | [**GitHub Repo**](https://github.com/themusafirr/lead-sentinel-automation) |

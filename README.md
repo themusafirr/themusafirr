@@ -27,7 +27,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 **Full-Stack AI & Automation Engineer** building commercial-grade SaaS products, autonomous multi-agent pipelines, and algorithmic trading systems.
-- 🛠️ Shipped turnkey marketplace platforms, AI video generation engines, scraping infrastructure, and financial quantitative bots.
+- 🛠️ Shipped turnkey marketplace platforms, retail e-commerce suites, AI video generation engines, scraping infrastructure, and financial quantitative bots.
 - 📍 Located in **Rajasthan, India** • Open for freelance collaborations, technical consulting, and high-impact software development worldwide.
 
 ---
@@ -37,7 +37,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,fastapi,flask,nodejs,firebase,postgres,sqlite,docker,linux,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,fastapi,flask,nodejs,express,firebase,postgres,sqlite,docker,nginx,linux,tailwind,git,github" />
 </a>
 
 <br/><br/>
@@ -45,9 +45,9 @@
 | Domain | Core Technologies |
 |:---|:---|
 | **Frontend & Mobile Apps** | Next.js 14, React 18, TypeScript, Tailwind CSS, Capacitor (PWA & Android) |
-| **Backend & Microservices** | Python, Flask, FastAPI, Node.js, Express, Firebase Firestore, SQLite |
+| **Backend & Microservices** | Node.js, Express, Python, Flask, FastAPI, Firebase Firestore, SQLite |
 | **Generative AI & Media Automation** | Google Gemini API, Groq LPU, Edge-TTS, MoviePy, FFmpeg, yt-dlp, n8n |
-| **Algorithmic Trading & Quant** | MQL5, MQL4, MetaTrader 5 API, Latency Arbitrage, Freqtrade |
+| **Algorithmic Trading & Quant** | MQL5, MQL4, MetaTrader 5 API, Latency Arbitrage, Quantitative Confluence |
 | **DevOps & Infrastructure** | Linux Ubuntu VPS, Docker Compose, Nginx Reverse Proxy, Cloudflare |
 
 </div>
@@ -58,6 +58,7 @@
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
+| 👟 **Rabbit Shoes Storefront** | Full-Featured Retail Footwear E-Commerce Suite with WhatsApp Checkout & GST Invoicing | `Node.js` `Express` `Docker` `Nginx` | [**View Repo**](https://github.com/pixelssudio/rabbit-shoes-ecommerce-suite) |
 | 🏋️ **FitTrack Gym PWA** | Offline-First Gym & Fitness Management PWA with BMI tracking & membership engine | `Python` `Flask` `SQLite` `PWA` | [**View Repo**](https://github.com/pixelssudio/fittrack-fitness-pwa) |
 | 🎬 **AI Video Studio** | Autonomous YouTube Shorts & Reels creator with Gemini AI & automated voiceovers | `Python` `Gemini` `MoviePy` `TTS` | [**View Repo**](https://github.com/pixelssudio/youtube-shorts-ai-studio) |
 | 🏙️ **Hyperlocal Portal** | Production-ready services marketplace, WhatsApp orders & Razorpay payments | `Next.js 14` `Firebase` `Capacitor` | [**View Repo**](https://github.com/pixelssudio/hyperlocal-community-portal) |

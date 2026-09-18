@@ -58,18 +58,18 @@
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
-| 👟 **Rabbit Shoes Storefront** | Full-Featured Retail Footwear E-Commerce Suite with WhatsApp Checkout & GST Invoicing | `Node.js` `Express` `Docker` `Nginx` | [**View Repo**](https://github.com/pixelssudio/rabbit-shoes-ecommerce-suite) |
-| 🏋️ **FitTrack Gym PWA** | Offline-First Gym & Fitness Management PWA with BMI tracking & membership engine | `Python` `Flask` `SQLite` `PWA` | [**View Repo**](https://github.com/pixelssudio/fittrack-fitness-pwa) |
-| 🎬 **AI Video Studio** | Autonomous YouTube Shorts & Reels creator with Gemini AI & automated voiceovers | `Python` `Gemini` `MoviePy` `TTS` | [**View Repo**](https://github.com/pixelssudio/youtube-shorts-ai-studio) |
-| 🏙️ **Hyperlocal Portal** | Production-ready services marketplace, WhatsApp orders & Razorpay payments | `Next.js 14` `Firebase` `Capacitor` | [**View Repo**](https://github.com/pixelssudio/hyperlocal-community-portal) |
-| 📈 **AntiLatency Sniper EA** | Institutional high-frequency latency arbitrage scalping bot for MT4 & MT5 | `MQL5` `MQL4` `Python` `MT5` | [**View Repo**](https://github.com/pixelssudio/antilatency-sniper-ea) |
-| 💬 **Gemini WA Automation** | Smart WhatsApp bot powered by Google Gemini AI & Baileys multi-device socket | `Node.js` `Gemini AI` `Docker` | [**View Repo**](https://github.com/pixelssudio/gemini-whatsapp-automation) |
-| 🛍️ **Loot & Deals Bot** | 24/7 autonomous deal scraper (Amazon, Ajio, Flipkart) with deduplication | `Python` `Telegram API` `SQLite` | [**View Repo**](https://github.com/pixelssudio/telegram-loot-deals-bot) |
-| 📥 **Universal Downloader** | Multi-platform video and audio extractor with rotating proxy pool | `Python` `Flask` `yt-dlp` `Proxies` | [**View Repo**](https://github.com/pixelssudio/universal-media-downloader) |
-| ⚡ **TagStorm SaaS** | AI Hashtag discovery Micro-SaaS with competition difficulty scoring | `Python` `Flask` `SQLite` `Tailwind` | [**View Repo**](https://github.com/pixelssudio/tagstorm-hashtag-saas) |
-| 🤖 **Telegram Concierge** | Private AI assistant powered by Groq LPUs with zero-dependency fallback | `Python` `Groq LLaMA-3` `Asyncio` | [**View Repo**](https://github.com/pixelssudio/telegram-ai-concierge) |
-| 🎯 **LeadSentinel** | Automated B2B business lead scraper & personalized cold email sequence suite | `Python` `BeautifulSoup` `SMTP` | [**View Repo**](https://github.com/pixelssudio/lead-sentinel-automation) |
-| 🏛️ **eMitra Kiosk Hub** | Multi-tenant citizen service kiosk backend with Razorpay & PDF generation | `Node.js` `Express` `Razorpay` `Docker` | [**View Repo**](https://github.com/pixelssudio/emitra-kiosk-portal) |
+| 👟 **Rabbit Shoes Storefront** | Full-Featured Retail Footwear E-Commerce Suite with WhatsApp Checkout & GST Invoicing | `Node.js` `Express` `Docker` `Nginx` | [**View Repo**](https://github.com/themusafirr/rabbit-shoes-ecommerce-suite) |
+| 🏋️ **FitTrack Gym PWA** | Offline-First Gym & Fitness Management PWA with BMI tracking & membership engine | `Python` `Flask` `SQLite` `PWA` | [**View Repo**](https://github.com/themusafirr/fittrack-fitness-pwa) |
+| 🎬 **AI Video Studio** | Autonomous YouTube Shorts & Reels creator with Gemini AI & automated voiceovers | `Python` `Gemini` `MoviePy` `TTS` | [**View Repo**](https://github.com/themusafirr/youtube-shorts-ai-studio) |
+| 🏙️ **Hyperlocal Portal** | Production-ready services marketplace, WhatsApp orders & Razorpay payments | `Next.js 14` `Firebase` `Capacitor` | [**View Repo**](https://github.com/themusafirr/hyperlocal-community-portal) |
+| 📈 **AntiLatency Sniper EA** | Institutional high-frequency latency arbitrage scalping bot for MT4 & MT5 | `MQL5` `MQL4` `Python` `MT5` | [**View Repo**](https://github.com/themusafirr/antilatency-sniper-ea) |
+| 💬 **Gemini WA Automation** | Smart WhatsApp bot powered by Google Gemini AI & Baileys multi-device socket | `Node.js` `Gemini AI` `Docker` | [**View Repo**](https://github.com/themusafirr/gemini-whatsapp-automation) |
+| 🛍️ **Loot & Deals Bot** | 24/7 autonomous deal scraper (Amazon, Ajio, Flipkart) with deduplication | `Python` `Telegram API` `SQLite` | [**View Repo**](https://github.com/themusafirr/telegram-loot-deals-bot) |
+| 📥 **Universal Downloader** | Multi-platform video and audio extractor with rotating proxy pool | `Python` `Flask` `yt-dlp` `Proxies` | [**View Repo**](https://github.com/themusafirr/universal-media-downloader) |
+| ⚡ **TagStorm SaaS** | AI Hashtag discovery Micro-SaaS with competition difficulty scoring | `Python` `Flask` `SQLite` `Tailwind` | [**View Repo**](https://github.com/themusafirr/tagstorm-hashtag-saas) |
+| 🤖 **Telegram Concierge** | Private AI assistant powered by Groq LPUs with zero-dependency fallback | `Python` `Groq LLaMA-3` `Asyncio` | [**View Repo**](https://github.com/themusafirr/telegram-ai-concierge) |
+| 🎯 **LeadSentinel** | Automated B2B business lead scraper & personalized cold email sequence suite | `Python` `BeautifulSoup` `SMTP` | [**View Repo**](https://github.com/themusafirr/lead-sentinel-automation) |
+| 🏛️ **eMitra Kiosk Hub** | Multi-tenant citizen service kiosk backend with Razorpay & PDF generation | `Node.js` `Express` `Razorpay` `Docker` | [**View Repo**](https://github.com/themusafirr/emitra-kiosk-portal) |
 
 ---
 
@@ -77,12 +77,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pixelssudio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelssudio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=themusafirr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themusafirr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pixelssudio&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=7982a9" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=themusafirr&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=7982a9" />
 
 </div>
 

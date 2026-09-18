@@ -76,12 +76,16 @@
 
 | Project | Domain | Tech Stack | Live Demo & Source |
 |:---|:---|:---|:---:|
-| 👟 **Rabbit Shoes Storefront** | E-Commerce & Retail ERP | `Node.js` `Express` `Docker` | [🌐 **Live Website**](https://shoes.137.23.47.199.sslip.io) • [**GitHub**](https://github.com/themusafirr/rabbit-shoes-ecommerce-suite) |
-| 🏋️ **FitTrack Gym Platform** | Health & Fitness PWA | `Python` `Flask` `SQLite` `PWA` | [🌐 **Live Website**](https://gym.137.23.47.199.sslip.io) • [**GitHub**](https://github.com/themusafirr/fittrack-fitness-pwa) |
-| 📱 **Zebronics Smart Remote** | Smart Hardware Touch PWA | `HTML5` `CSS3` `PWA` `WebAPI` | [🌐 **Live App**](https://themusafirr.github.io/zebronics-smart-remote-pwa/) • [**GitHub**](https://github.com/themusafirr/zebronics-smart-remote-pwa) |
-| ⚡ **TagStorm SaaS** | Social Growth Micro-SaaS | `Python` `Flask` `Tailwind` | [🌐 **Live Website**](https://themusafirr.github.io/tagstorm-hashtag-saas/) • [**GitHub**](https://github.com/themusafirr/tagstorm-hashtag-saas) |
-| 🏛️ **eMitra Citizen Kiosk** | Fintech & Document ERP | `Node.js` `Express` `Razorpay` | [🌐 **Live Website**](http://kiosk.137.23.47.199.sslip.io) • [**GitHub**](https://github.com/themusafirr/emitra-kiosk-portal) |
-| 📥 **Universal Downloader** | Media Extraction Engine | `Python` `Flask` `yt-dlp` | [🌐 **Live Website**](https://groundwater-subsequently-rays-latex.trycloudflare.com) • [**GitHub**](https://github.com/themusafirr/universal-media-downloader) |
+| 👟 **Rabbit Shoes Storefront** | E-Commerce & Retail ERP | `Node.js` `Express` `Docker` | [🌐 **Live VPS**](https://shoes.137.23.47.199.sslip.io) • [📱 **GitHub Pages**](https://themusafirr.github.io/rabbit-shoes-ecommerce-suite/) • [**Repo**](https://github.com/themusafirr/rabbit-shoes-ecommerce-suite) |
+| 🏋️ **FitTrack Gym Platform** | Health & Fitness PWA | `Python` `Flask` `SQLite` `PWA` | [🌐 **Live VPS**](https://gym.137.23.47.199.sslip.io) • [📱 **GitHub Pages**](https://themusafirr.github.io/fittrack-fitness-pwa/) • [**Repo**](https://github.com/themusafirr/fittrack-fitness-pwa) |
+| 📱 **Zebronics Smart Remote** | Smart Hardware Touch PWA | `HTML5` `CSS3` `PWA` `WebAPI` | [🌐 **Live on GitHub Pages**](https://themusafirr.github.io/zebronics-smart-remote-pwa/) • [**Repo**](https://github.com/themusafirr/zebronics-smart-remote-pwa) |
+| ⚡ **TagStorm SaaS** | Social Growth Micro-SaaS | `Python` `Flask` `Tailwind` | [🌐 **Live on GitHub Pages**](https://themusafirr.github.io/tagstorm-hashtag-saas/) • [**Repo**](https://github.com/themusafirr/tagstorm-hashtag-saas) |
+| 🚀 **Rawatbhata Direct** | Hyperlocal Commerce & Launch | `HTML5` `CSS3` `Branding` | [🌐 **Live on GitHub Pages**](https://themusafirr.github.io/rawatbhata-direct-platform/) • [**Repo**](https://github.com/themusafirr/rawatbhata-direct-platform) |
+| 🎒 **Travel Content Studio** | Aesthetic Carousel Studio | `HTML5` `CSS3` `Photography` | [🌐 **Live on GitHub Pages**](https://themusafirr.github.io/travel-carousel-content-studio/) • [**Repo**](https://github.com/themusafirr/travel-carousel-content-studio) |
+| 💰 **Monetization Studio** | Digital Products & Itineraries | `Python` `HTML5` `Micro-SaaS` | [🌐 **Live on GitHub Pages**](https://themusafirr.github.io/monetization-scraping-toolkit/) • [**Repo**](https://github.com/themusafirr/monetization-scraping-toolkit) |
+| 🏛️ **eMitra Citizen Kiosk** | Fintech & Document ERP | `Node.js` `Express` `Razorpay` | [🌐 **Live VPS**](http://kiosk.137.23.47.199.sslip.io) • [📱 **GitHub Pages**](https://themusafirr.github.io/emitra-kiosk-portal/) • [**Repo**](https://github.com/themusafirr/emitra-kiosk-portal) |
+| 🛡️ **The Protector CRM** | Client Acquisition & Funnel | `HTML5` `Notion` `CRM` | [🌐 **Live on GitHub Pages**](https://themusafirr.github.io/the-protector-crm-suite/) • [**Repo**](https://github.com/themusafirr/the-protector-crm-suite) |
+| 📥 **Universal Downloader** | Media Extraction Engine | `Python` `Flask` `yt-dlp` | [🌐 **Live VPS**](https://groundwater-subsequently-rays-latex.trycloudflare.com) • [**Repo**](https://github.com/themusafirr/universal-media-downloader) |
 | 🤖 **Autonomous Crypto Bot** | Dual-MA Algorithmic Trader | `Python` `Binance` `Telegram` | [**GitHub Repo**](https://github.com/themusafirr/autonomous-crypto-trading-bot) |
 | 📈 **AntiLatency Sniper EA** | High-Frequency Forex Scalper | `MQL5` `MQL4` `Python` `MT5` | [**GitHub Repo**](https://github.com/themusafirr/antilatency-sniper-ea) |
 | 📈 **Freqtrade Guardian** | Crypto Algo Trading Daemon | `Python` `Docker` `Freqtrade` | [**GitHub Repo**](https://github.com/themusafirr/freqtrade-crypto-guardian) |
@@ -93,12 +97,8 @@
 | 🛡️ **Insurance Growth Bot** | InsurTech Leads & Creatives | `Python` `Telegram` `Studio` | [**GitHub Repo**](https://github.com/themusafirr/insurance-growth-automation-bot) |
 | 🎮 **Gaming Shorts Studio** | Autonomous Video Engine | `Gemini AI` `MoviePy` `TTS` | [**GitHub Repo**](https://github.com/themusafirr/gaming-shorts-ai-engine) |
 | 🎬 **Travel Reel AI Studio** | Short-Form Content Producer | `Python` `MoviePy` `Edge-TTS` | [**GitHub Repo**](https://github.com/themusafirr/youtube-shorts-ai-studio) |
-| 🎒 **Travel Content Studio** | Aesthetic Carousel Studio | `HTML5` `CSS3` `Photography` | [**GitHub Repo**](https://github.com/themusafirr/travel-carousel-content-studio) |
 | 📸 **Instagram Carousel Engine**| Growth & Carousel Pipeline | `Python` `Telegram` `HTML5` | [**GitHub Repo**](https://github.com/themusafirr/instagram-automation-content-engine) |
-| 💰 **Monetization Studio** | Digital Products & Itineraries | `Python` `HTML5` `Micro-SaaS` | [**GitHub Repo**](https://github.com/themusafirr/monetization-scraping-toolkit) |
-| 🚀 **Rawatbhata Direct** | Hyperlocal Commerce & Launch | `HTML5` `CSS3` `Branding` | [**GitHub Repo**](https://github.com/themusafirr/rawatbhata-direct-platform) |
 | 🏙️ **Hyperlocal Portal** | On-Demand Services Directory | `Next.js 14` `Firebase` `PWA` | [**GitHub Repo**](https://github.com/themusafirr/hyperlocal-community-portal) |
-| 🛡️ **The Protector CRM** | Client Acquisition & Funnel | `HTML5` `Notion` `CRM` | [**GitHub Repo**](https://github.com/themusafirr/the-protector-crm-suite) |
 | 🛍️ **Loot & Deals Bot** | 24/7 Retail Arbitrage Scraper | `Python` `Telegram` `SQLite` | [**GitHub Repo**](https://github.com/themusafirr/telegram-loot-deals-bot) |
 | 🤖 **Telegram Concierge** | Private AI Briefing Assistant | `Python` `Groq LLaMA-3` `Bot` | [**GitHub Repo**](https://github.com/themusafirr/telegram-ai-concierge) |
 | 🎯 **LeadSentinel** | B2B Prospecting & Cold Email | `Python` `BeautifulSoup` `SMTP` | [**GitHub Repo**](https://github.com/themusafirr/lead-sentinel-automation) |

@@ -69,6 +69,7 @@
 | ⚡ **TagStorm SaaS** | AI Hashtag discovery Micro-SaaS with competition difficulty scoring | `Python` `Flask` `SQLite` `Tailwind` | [**View Repo**](https://github.com/pixelssudio/tagstorm-hashtag-saas) |
 | 🤖 **Telegram Concierge** | Private AI assistant powered by Groq LPUs with zero-dependency fallback | `Python` `Groq LLaMA-3` `Asyncio` | [**View Repo**](https://github.com/pixelssudio/telegram-ai-concierge) |
 | 🎯 **LeadSentinel** | Automated B2B business lead scraper & personalized cold email sequence suite | `Python` `BeautifulSoup` `SMTP` | [**View Repo**](https://github.com/pixelssudio/lead-sentinel-automation) |
+| 🏛️ **eMitra Kiosk Hub** | Multi-tenant citizen service kiosk backend with Razorpay & PDF generation | `Node.js` `Express` `Razorpay` `Docker` | [**View Repo**](https://github.com/pixelssudio/emitra-kiosk-portal) |
 
 ---
 
